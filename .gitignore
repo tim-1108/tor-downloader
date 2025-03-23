@@ -4,3 +4,8 @@ download.output
 bun.lock
 tor.exe
 package-lock.json
+*.chunk
+download.log
+output
+*.part
+merged_parts

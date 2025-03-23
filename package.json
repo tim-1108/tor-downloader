@@ -11,6 +11,7 @@
         "socks-proxy-agent": "^8.0.5"
     },
     "devDependencies": {
+        "@types/node": "^22.13.11",
         "prettier": "^3.5.3"
     }
 }
